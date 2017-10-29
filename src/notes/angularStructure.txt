@@ -1,0 +1,8 @@
+1. tscconfig.json: Typescript configuration file.
+2. tslint.json: This will ask us to follow the best guidelines for Typescript.
+3. protractor.conf.js: Configuration file for Automation testing.
+4. package.json : The configuration file for node.
+5. karma.conf.js : This will help us to test individual functions.
+6. .angular-cli.json : This is configuration file for Angualar CLI.
+
+SRC:
