@@ -1,5 +1,7 @@
 # EmployeeManager
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/santoshyadav198613/EmployeeMangementApp.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
 ## After clone or download
